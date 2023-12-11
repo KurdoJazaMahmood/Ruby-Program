@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Catalog-Ruby-Group-Capstone</b></h1>
+  <h1><b>Catalog program in Ruby  (Kurdo Jaza mahmood) </b></h1>
 
 </div>
 
@@ -22,7 +22,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -74,11 +74,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🚀 Video Project Presentation <a name="video-project-presentation"></a>
-
-- <a href="https://youtu.be/FK86Ww13c_Y" target="_blank">Video Project Presentation Link</a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -91,9 +86,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need: any web-browser.
 
-### Setup
-
-Clone this [repository](https://github.com/Lucash2022/Catalog-Ruby-Group-Capstone) to your desired folder.
 
 ### Install
 
@@ -103,7 +95,7 @@ This project does not require installation.
 
 **To run the project follow the following instruction:-**
 
-- Clone this [repository](https://github.com/Lucash2022/Catalog-Ruby-Group-Capstone) in your local machine with correct branch.
+- Clone this [repository](https://github.com/KurdoJazaMahmood/Ruby-Program/tree/master/Catalog-Ruby-Group-Capstone-dev) in your local machine with correct branch.
 - Run **ruby main.rb**
 
 ### Run tests
@@ -112,28 +104,20 @@ To run tests, run the following command: **rspec**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Lucas Erkana**
-
-- GitHub: [@Lucash2022](https://github.com/Lucash2022)
-- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
-- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
 
 
-👤 **Kagheni Mbale Christian**
 
-- GitHub: [@githubhandle](https://github.com/Kaghenimbale)
-- Twitter: [@twitterhandle](https://twitter.com/MbaleKagheni)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kagheni-mbale-401b90240/)
 
-👤 **Ghulam Hyder Dar**
 
-- GitHub: [@codeWithHyder](https://github.com/codeWithHyder)
-- Twitter: [@Hyder](https://twitter.com/@hyder3512)
-- LinkedIn: [@Hyder](https://www.linkedin.com/in/ghulam-hyder-dar/)
+👤 **Kurdo Barznjy**
+
+- GitHub: [@Kurdo Jaza Mahmood](https://github.com/codeWithHyder)
+- Twitter: [@Kurdo_jaza](https://twitter.com/@hyder3512)
+- LinkedIn: [@Kurdo Jaza](https://www.linkedin.com/in/ghulam-hyder-dar/)
 
 
 
@@ -161,7 +145,6 @@ add genre to selected book
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +160,7 @@ If you like this project give a ⭐️.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to thank Mr.Iman.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
