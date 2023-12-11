@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Catalog-Ruby-Group-Capstone</b></h1>
+  <h1><b>Catalog program in Ruby  </b></h1>
 
 </div>
 
