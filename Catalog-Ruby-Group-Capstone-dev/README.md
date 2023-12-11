@@ -85,10 +85,6 @@ To run tests, run the following command: **rspec**.
 ## 👥 Author <a name="authors"></a>
 
 
-
-
-
-
 👤 **Kurdo Barznjy**
 
 - GitHub: [@Kurdo Jaza Mahmood](https://github.com/codeWithHyder)
