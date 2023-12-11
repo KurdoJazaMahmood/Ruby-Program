@@ -4,6 +4,7 @@
 
   <h1><b>Catalog program in Ruby  (Kurdo Jaza mahmood) </b></h1>
 
+</div>
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Catalog-Ruby-Group-Capstone <a id="about-project"></a>
